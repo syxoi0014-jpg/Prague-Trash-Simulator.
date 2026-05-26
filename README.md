@@ -21,3 +21,4 @@ A 2D top-down simulation game built from scratch using **Java SE**. This project
 
 ---
 *Developed as a portfolio project to demonstrate core Java development skills, algorithmic logic, and UI/UX design.*
+🎮 Play it live on itch.io:   https://syxoi0014-jpg.itch.io/prague-trash-simulator
